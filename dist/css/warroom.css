@@ -367,7 +367,7 @@
 }
 
 .map .map-bg-corn:hover {
-  background-image: url('/dist/img/map/corn.png');
+  background-image: url('../../dist/img/map/corn.png');
 }
 
 .map .map-bg-wheat {
@@ -375,7 +375,7 @@
 }
 
 .map .map-bg-wheat:hover {
-  background-image: url('/dist/img/map/wheat.png');
+  background-image: url('../../dist/img/map/wheat.png');
 }
 
 .map .map-item .label {
@@ -461,5 +461,5 @@
 }
 .card-body-chart {
   background-color: #f8f9fa;
-  background-image: url('/dist/img/map/line-net.png');
+  background-image: url('../../dist/img/map/line-net.png');
 }
