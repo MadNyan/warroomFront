@@ -1,0 +1,465 @@
+.layout-navbar-fixed .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+    background-color: #f1f9f8;
+}
+
+.layout-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+    background-color: #f1f9f8;
+}
+  
+@media (min-width: 576px) {
+    .layout-sm-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+        background-color: #f1f9f8;
+    }
+}
+  
+@media (min-width: 768px) {
+    .layout-md-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+        background-color: #f1f9f8;
+    }
+}
+  
+@media (min-width: 992px) {
+    .layout-lg-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+        background-color: #f1f9f8;
+    }
+}
+
+@media (min-width: 1200px) {
+    .layout-xl-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+        background-color: #f1f9f8;
+    }
+}
+
+.layout-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+    background-color: #f1f9f8;
+} 
+
+.layout-navbar-fixed .dark-mode .wrapper .sidebar-light-warroom .brand-link:not([class*="navbar"]) {
+    background-color: #f1f9f8;
+}
+
+.sidebar-light-warroom .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: #f1f9f8;
+    color: #0a3331;
+}
+
+.sidebar-light-warroom .nav-sidebar.nav-legacy > .nav-item > .nav-link.active {
+    border-color: #d6fffa;
+}
+
+.dark-mode .sidebar-light-warroom .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: #f1f9f8;
+    color: #0a3331;
+}
+
+.dark-mode .sidebar-light-warroom .nav-sidebar.nav-legacy > .nav-item > .nav-link.active {
+    border-color: #d6fffa;
+}
+
+.content-wrapper {
+    background-color: #f1f9f8;
+}
+
+.text-warroom {
+    color: #0a3331;
+}
+
+.text-light-warroom {
+    color: #00b8a9;
+}
+
+.bg-warroom > .card-header .btn-tool,
+.bg-gradient-warroom > .card-header .btn-tool,
+.card-warroom:not(.card-outline) > .card-header .btn-tool {
+  color: #0a3331;
+}
+
+.bg-warroom > .card-header .btn-tool:hover,
+.bg-gradient-warroom > .card-header .btn-tool:hover,
+.card-warroom:not(.card-outline) > .card-header .btn-tool:hover {
+  color: #0a3331;
+}
+
+.card.bg-warroom .bootstrap-datetimepicker-widget .table td,
+.card.bg-warroom .bootstrap-datetimepicker-widget .table th,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget .table td,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget .table th {
+  border: none;
+}
+
+.card.bg-warroom .bootstrap-datetimepicker-widget table thead tr:first-child th:hover,
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.day:hover,
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.hour:hover,
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.minute:hover,
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.second:hover,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table thead tr:first-child th:hover,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.day:hover,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.hour:hover,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.minute:hover,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.second:hover {
+  background-color: #f1f9f8;
+  color: #0a3331;
+}
+
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.today::before,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.today::before {
+  border-bottom-color: #0a3331;
+}
+
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.active,
+.card.bg-warroom .bootstrap-datetimepicker-widget table td.active:hover,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.active,
+.card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.active:hover {
+  background-color: #f1f9f8;
+  color: #0a3331;
+}
+
+
+.dark-mode .bg-warroom > .card-header .btn-tool,
+.dark-mode .bg-gradient-warroom > .card-header .btn-tool,
+.dark-mode .card-warroom:not(.card-outline) > .card-header .btn-tool {
+  color: #0a3331;
+}
+
+.dark-mode .bg-warroom > .card-header .btn-tool:hover,
+.dark-mode .bg-gradient-warroom > .card-header .btn-tool:hover,
+.dark-mode .card-warroom:not(.card-outline) > .card-header .btn-tool:hover {
+  color: #0a3331;
+}
+
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget .table td,
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget .table th,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget .table td,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget .table th {
+  border: none;
+}
+
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table thead tr:first-child th:hover,
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.day:hover,
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.hour:hover,
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.minute:hover,
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.second:hover,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table thead tr:first-child th:hover,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.day:hover,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.hour:hover,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.minute:hover,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.second:hover {
+  background-color: #d6fffa;
+  color: #0a3331;
+}
+
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.today::before,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.today::before {
+  border-bottom-color: #0a3331;
+}
+
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.active,
+.dark-mode .card.bg-warroom .bootstrap-datetimepicker-widget table td.active:hover,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.active,
+.dark-mode .card.bg-gradient-warroom .bootstrap-datetimepicker-widget table td.active:hover {
+  background-color: #d6fffa;
+  color: #0a3331;
+}
+
+.dark-mode .info-box .info-box .bg-warroom,
+.dark-mode .info-box .info-box .bg-gradient-warroom {
+  color: #0a3331;
+}
+
+.dark-mode .info-box .info-box .bg-warroom .progress-bar,
+.dark-mode .info-box .info-box .bg-gradient-warroom .progress-bar {
+  background-color: #0a3331;
+}
+
+.bg-gradient-warroom {
+  background: #f1f9f8 linear-gradient(180deg, #acf4ee, #f1f9f8) repeat-x !important;
+  color: #0a3331;
+}
+
+.bg-gradient-warroom.btn:not(:disabled):not(.disabled):active, .bg-gradient-warroom.btn:not(:disabled):not(.disabled).active,
+.show > .bg-gradient-warroom.btn.dropdown-toggle {
+  background-image: none !important;
+}
+
+.bg-gradient-warroom.btn:hover {
+  background: #f1f9f8 linear-gradient(180deg, #acf4ee, #f1f9f8) repeat-x !important;
+  border-color: #00b8a9;
+  color: #0a3331;
+}
+
+.bg-gradient-warroom.btn:not(:disabled):not(.disabled):active, .bg-gradient-warroom.btn:not(:disabled):not(.disabled).active, .bg-gradient-warroom.btn:active, .bg-gradient-warroom.btn.active {
+  background: #f1f9f8 linear-gradient(180deg, #acf4ee, #f1f9f8) repeat-x !important;
+  border-color: #00b8a9;
+  color: #0a3331;
+}
+
+.bg-gradient-warroom.btn:disabled, .bg-gradient-warroom.btn.disabled {
+  background-image: none !important;
+  border-color: #f1f9f8;
+  color: #0a3331;
+}
+
+.dark-mode .bg-gradient-warroom {
+  background: #f1f9f8 linear-gradient(180deg, #acf4ee, #f1f9f8) repeat-x !important;
+  color: #0a3331;
+}
+
+.dark-mode .bg-gradient-warroom.btn:not(:disabled):not(.disabled):active, .dark-mode .bg-gradient-warroom.btn:not(:disabled):not(.disabled).active,
+.show > .dark-mode .bg-gradient-warroom.btn.dropdown-toggle {
+  background-image: none !important;
+}
+
+.dark-mode .bg-gradient-warroom.btn:hover {
+  background: #f1f9f8 linear-gradient(180deg, #acf4ee, #f1f9f8) repeat-x !important;
+  border-color: #00b8a9;
+  color: #ececec;
+}
+
+.dark-mode .bg-gradient-warroom.btn:not(:disabled):not(.disabled):active, .dark-mode .bg-gradient-warroom.btn:not(:disabled):not(.disabled).active, .dark-mode .bg-gradient-warroom.btn:active, .dark-mode .bg-gradient-warroom.btn.active {
+  background: #f1f9f8 linear-gradient(180deg, #acf4ee, #f1f9f8) repeat-x !important;
+  border-color: #00b8a9;
+  color: #0a3331;
+}
+
+.dark-mode .bg-gradient-warroom.btn:disabled, .dark-mode .bg-gradient-warroom.btn.disabled {
+  background-image: none !important;
+  border-color: #00b8a9;
+  color: #0a3331;
+}
+
+.card-body-map {
+  background-color: #f8f9fa;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+.map {
+    background-color: #f8f9fa;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+    height: 380px; /* Adjust as needed */
+    overflow: auto; 
+}
+
+.map .map-item {
+    position: relative;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px; /* Fixed height */
+    width: 100px; /* Fixed width */
+}
+
+.map .map-item .line {
+  position: absolute;
+  width: 460px;
+  z-index: 98;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 0px;
+  bottom: -24px;
+}
+
+.map .map-item .line img {
+  width: 460px;
+}
+
+@media (min-width: 320px) {
+    .map {
+        background-color: #f8f9fa;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        padding: 20px;
+        height: 560px; /* Adjust as needed */
+        overflow: auto; 
+    }
+    
+    .map .map-item {
+        position: relative;
+        background-color: #f8f9fa;
+        border: 1px solid #dee2e6;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 160px; /* Fixed height */
+        width: 160px; /* Fixed width */
+    }
+
+    .map .map-item .line {
+      position: absolute;
+      width: 700px;
+      z-index: 98;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      left: 0px;
+      bottom: -24px;
+    }
+    
+    .map .map-item .line img {
+      width: 700px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .map {
+        background-color: #f8f9fa;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        padding: 20px;
+        height: 680px; /* Adjust as needed */
+        overflow: auto; 
+    }
+    
+    .map .map-item {
+        position: relative;
+        background-color: #f8f9fa;
+        border: 1px solid #dee2e6;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px; /* Fixed height */
+        width: 200px; /* Fixed width */
+    }
+
+    .map .map-item .line {
+      position: absolute;
+      width: 860px;
+      z-index: 98;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      left: 0px;
+      bottom: -24px;
+    }
+    
+    .map .map-item .line img {
+      width: 860px;
+    }
+}
+
+.map .map-bg {
+  background-repeat: repeat;
+  background-position: right top;
+  background-size: 32px 32px;
+}
+
+.map .map-bg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.map .map-bg-corn {
+  background-color: rgb(77, 255, 86);
+}
+
+.map .map-bg-corn:hover {
+  background-image: url('/dist/img/map/corn.png');
+}
+
+.map .map-bg-wheat {
+  background-color: rgb(77, 255, 86);
+}
+
+.map .map-bg-wheat:hover {
+  background-image: url('/dist/img/map/wheat.png');
+}
+
+.map .map-item .label {
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  font-size: 24px;
+  color: #000;
+}
+
+.map .map-item img {
+  width: 24px;
+  height: 24px;
+}
+
+.map .map-item .icon {
+  position: absolute;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.map .map-item .icon:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.map .map-item .humidity-icon {
+  top: 30%;
+}
+
+.map .map-item .wave-icon {
+  top: -10px;
+  left: -10px;
+}
+
+.map .map-item .radar-icon {
+  bottom: -10px;
+  left: 10px;
+}
+
+.map .map-item .radar-icon2 {
+  bottom: -10px;
+  right: 20px;
+}
+
+.map .map-item .sensor-icon {
+  bottom: -10px;
+  right: 20px;
+}
+
+.map .map-item .energy-icon {
+  top: 65%;
+  right: -10px;
+}
+
+.map .map-item .control-icon {
+  top: 45%;
+  right: -10px;
+}
+
+.map .map-item .valve-icon {
+  top: 85%;
+  right: -10px;
+}
+
+.map .map-item .sluice-icon {
+  bottom: -10px;
+  left: 45px;
+}
+
+.card-footer-map {
+  font-size: 24px;
+}
+
+.card-footer-map img {
+  width: 32px;
+  height: 32px;
+}
+.card-body-chart {
+  background-color: #f8f9fa;
+  background-image: url('/dist/img/map/line-net.png');
+}
